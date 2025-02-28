@@ -33,6 +33,6 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact us at lh140313@outlook.com.
+For any questions or suggestions, feel free to open an issue or contact me at lh140313@outlook.com.
 
 Happy predicting!
